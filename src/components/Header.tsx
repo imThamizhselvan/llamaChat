@@ -79,7 +79,7 @@ const Header: React.FC = () => {
         {isDarkMode ? <FaSun /> : <FaMoon />}
       </ThemeToggle>
       <Title>
-        <span>LlamaChat</span> AI
+        <span>Easy Chat</span> AI
       </Title>
       <Subtitle>Your intelligent companion for learning and discovery</Subtitle>
     </HeaderContainer>
